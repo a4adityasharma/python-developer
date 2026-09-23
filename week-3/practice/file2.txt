@@ -1,0 +1,2 @@
+This is the second sample text file.
+Its contents will be merged with file1.

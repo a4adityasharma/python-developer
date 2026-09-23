@@ -1,0 +1,10 @@
+{
+    "name": "Aditya",
+    "course": "Python Programming",
+    "week": 3,
+    "skills": [
+        "OOP",
+        "Exception Handling",
+        "Python Libraries"
+    ]
+}

@@ -9,8 +9,8 @@ This repository contains all weekly assignments, mini-projects, and technical de
 | Week | Module / Task | Status | Deliverables |
 | :--- | :--- | :---: | :--- |
 | **Week 1** | **Python Fundamentals & Control Flow** | ✅ Completed | [View Projects](./week-1/) |
-| **Week 2** | Data Structures & OOPs Concepts | ⏳ Pending | Coming soon |
-| **Week 3** | File Handling, APIs & Automation | ⏳ Pending | Coming soon |
+| **Week 2** | **Data Structures & OOPs Concepts** | ✅ Completed | [View Projects](./week-2/) |
+| **Week 3** | **File Handling, APIs & Automation** | ✅ Completed | [View Projects](./week-3/) |
 | **Week 4** | Capstone Project & Assessment | ⏳ Pending | Coming soon |
 
 ---

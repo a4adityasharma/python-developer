@@ -1,0 +1,2 @@
+This is the first sample text file.
+It is used to practice file merging.

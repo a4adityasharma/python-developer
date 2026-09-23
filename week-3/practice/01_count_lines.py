@@ -1,5 +1,3 @@
-# Practice 1: Count Total Lines in a File
-
 from pathlib import Path
 
 filename = input("Enter file name: ").strip()

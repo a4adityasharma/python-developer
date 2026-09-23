@@ -1,6 +1,3 @@
-# Assignment 1: Bank Account Class
-# Skill Nexis Python Programming Internship - Week 3
-
 class BankAccount:
     def __init__(self, account_holder, initial_balance=0.0):
         self.account_holder = account_holder

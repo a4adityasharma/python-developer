@@ -1,5 +1,3 @@
-# Practice 5: Create and Read a JSON File
-
 import json
 
 data = {

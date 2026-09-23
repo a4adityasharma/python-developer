@@ -1,5 +1,3 @@
-# Practice 2: Merge Two Text Files
-
 from pathlib import Path
 
 file1 = input("Enter first file name: ").strip()

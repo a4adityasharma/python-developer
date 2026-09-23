@@ -1,5 +1,3 @@
-# Practice 3: Load and Analyze a CSV File Using Pandas
-
 import pandas as pd
 
 filename = input("Enter CSV file name: ").strip()

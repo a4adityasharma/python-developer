@@ -1,6 +1,3 @@
-# Assignment 3: Calculator Class with Exception Handling
-# Skill Nexis Python Programming Internship - Week 3
-
 class Calculator:
     @staticmethod
     def add(a, b):

@@ -1,6 +1,3 @@
-# Assignment 2: Library Management System (OOP)
-# Skill Nexis Python Programming Internship - Week 3
-
 class Book:
     def __init__(self, title, author):
         self.title = title

@@ -1,5 +1,3 @@
-# Practice 4: Line Graph Using Matplotlib
-
 import matplotlib.pyplot as plt
 
 days = [1, 2, 3, 4, 5, 6, 7]

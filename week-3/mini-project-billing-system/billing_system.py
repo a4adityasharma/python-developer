@@ -1,6 +1,3 @@
-# Mini Project: Billing System (OOP-based)
-# Skill Nexis Python Programming Internship - Week 3
-
 from datetime import datetime
 
 

@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "roll_number": 101,
+            "name": "Aman Sharma",
+            "marks": 85
+        },
+        {
+            "roll_number": 102,
+            "name": "Riya Singh",
+            "marks": 92
+        },
+        {
+            "roll_number": 103,
+            "name": "Karan Verma",
+            "marks": 78
+        }
+    ]
+}
